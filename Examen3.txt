@@ -1,0 +1,36 @@
+Que quiere hacer?
+1) Calcular Areas
+2) Sumar Areas
+
+2
+
+Tu Primer figura
+1) Cuadrilatero
+2) Triangulo
+3) Circulo
+
+1
+
+Escogiste cuadrilatero, dame los lados
+Ingresa la Base
+10
+
+Ingresa la Altura
+20
+
+El area es: 200
+
+Tu Segunda figura
+1) Cuadrilatero
+2) Triangulo
+3) Circulo
+
+3
+
+Escogiste Circulo, dame el radio
+Ingresa el radio
+10
+
+El area es: 314.16
+
+La Suma de las áreas es 514.16
